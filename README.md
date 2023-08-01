@@ -46,7 +46,10 @@ Inside the domain controller, run PowerShell ISE as administrator.
 
 </p>
 <p>
-In the top-left corner, select "New Script." copy and paste the following script into PowerShell ISE [PowerShell Script] (https://github.com/Josh-arendt/Generating_Practice_Users_For_AD/blob/main/PowerShell%20Script.txt) 
+In the top-left corner, select "New Script." copy and paste the following script into PowerShell ISE: 
+  
+  [PowerShell Script](https://github.com/Josh-arendt/Generating_Practice_Users_For_AD/blob/main/PowerShell%20Script.txt)
+  
 Select "Run Script".
 -Feel free to adjust the number of users you would like to generate. 10,000 users is a little too much for this example. 
 -Please take note of which file the users are being dumped into. for this tutorial, the script is putting Users into the folder labled "_EMPLOYEES." Make sure the name of the folder in the script matches the name in the direcotry.  
