@@ -54,3 +54,32 @@ Select "Run Script".
 -Feel free to adjust the number of users you would like to generate. 10,000 users is a little too much for this example. 
 -Please take note of which file the users are being dumped into. for this tutorial, the script is putting Users into the folder labled "_EMPLOYEES." Make sure the name of the folder in the script matches the name in the direcotry.  
 <br />
+
+<p>
+  
+  ![image](https://github.com/Josh-arendt/Generating_Practice_Users_For_AD/assets/140751318/1686cc34-e9f4-4423-9604-6381a433f721)
+ 
+</p>
+<p>
+Observe the generated users in the "_EMPLOYEES" folder. 
+At this point, you may practice assigning some Users to different security goups. You may also want to practice assigning different permissions to some users. 
+<br />
+
+<p>
+  
+  ![image](https://github.com/Josh-arendt/Generating_Practice_Users_For_AD/assets/140751318/2a36f6f9-1db1-4be0-954a-455402682a36)
+
+</p>
+<p>
+Select one user and practice logging in as them on the Client PC. The usernames you have generated will be different than the ones in this example since they are generated randomly.
+(If you copied the PowerShell script, the password will be "Password1" for this example.) 
+<br />
+
+<p>
+  
+  ![image](https://github.com/Josh-arendt/Generating_Practice_Users_For_AD/assets/140751318/e2bd9b04-e804-4587-a254-ce1922925df7)
+
+</p>
+<p>
+Success!! All of your generated Domain Users can log into the Client PC!
+<br />
